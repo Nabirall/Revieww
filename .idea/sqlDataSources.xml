@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="ca1e21c4-0c83-4d89-a41d-2ee9f11c6d9c" />
+          <option name="name" value="Задание_для_кандидатов_Выполнить_ревью_кода" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/../../Hades.EGS.Rip-InsaneRamZes/Задание_для_кандидатов_Выполнить_ревью_кода.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
